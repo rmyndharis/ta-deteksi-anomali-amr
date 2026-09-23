@@ -1,0 +1,16 @@
+# data dan hasil olahan tidak ikut ke repositori
+data/
+models/
+output/
+experiments/
+logs/
+analysis_v11/
+analysis_hibrida/
+venv/
+__pycache__/
+*.pkl
+*.csv
+*.h5
+*.keras
+*.zip
+.DS_Store
