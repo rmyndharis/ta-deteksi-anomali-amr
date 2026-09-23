@@ -1,0 +1,25 @@
+# Requirements - Sistem Deteksi Anomali Konsumsi Energi Listrik
+# LSTM Autoencoder + tahap klasifikasi hibrida dengan penyeimbangan data
+# Tugas Akhir - Yudhi Armyndharis (220401010272)
+#
+# Python 3.12. Versi di-pin sesuai lingkungan pengembangan (venv di code/)
+# agar hasil dapat direproduksi. Pasang: ./venv/bin/pip install -r requirements.txt
+
+# Pengolahan data dan metrik
+numpy==2.5.2
+pandas==3.0.5
+scikit-learn==1.9.0
+
+# Model
+tensorflow==2.21.0
+
+# Penyeimbangan data (random oversampling, SMOTE) pada tahap klasifikasi hibrida
+imbalanced-learn>=0.14
+
+# Visualisasi
+matplotlib==3.11.1
+seaborn==0.13.2
+plotly==7.0.0
+
+# Dashboard
+streamlit==1.62.0
