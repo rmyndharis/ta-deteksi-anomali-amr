@@ -1,6 +1,6 @@
 # ta-deteksi-anomali-amr
 
-Kode program Tugas Akhir "Penerapan Masked LSTM Autoencoder dalam Sistem Deteksi Anomali
+Kode program Tugas Akhir "Penerapan LSTM Masked Autoencoder dalam Sistem Deteksi Anomali
 Konsumsi Energi Listrik untuk Mendukung Penertiban Pemakaian Tenaga Listrik"
 (Yudhi Armyndharis, PJJ Informatika, Universitas Siber Asia, 2026).
 
